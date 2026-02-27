@@ -1,0 +1,14 @@
+This is a list of all articles for the ACO494 project by Ryan Baldwin, Cameron Serkland, and Luis Bencomo:
+
+- Initial Profiles
+    - Beginner: Finished | Creator: Ryan
+    - Advanced: Finished | Creator: Luis
+- Specific Profiles
+    - Office Worker: Finished | Creator: Luis
+    - Student: Finished | Creator: Ryan
+    - Artist: Finished | Creator: Cameron
+    - Programmer: Finished | Creator: Cameron
+    - Entrepreneur: In-Progress | Creator: Ryan
+    - Teacher: To-Be-Started | Creator: Ryan
+    - Job Seeker: Finished | Creator: Luis
+    - Homemaker: In-Progress | Creator: Ryan
