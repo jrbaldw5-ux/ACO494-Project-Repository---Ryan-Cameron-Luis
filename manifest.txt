@@ -8,7 +8,7 @@ This is a list of all articles for the ACO494 project by Ryan Baldwin, Cameron S
     - Student: Finished | Creator: Ryan
     - Artist: Finished | Creator: Cameron
     - Programmer: Finished | Creator: Cameron
-    - Entrepreneur: In-Progress | Creator: Ryan
-    - Teacher: To-Be-Started | Creator: Ryan
+    - Entrepreneur: In-Progress | Creator: Luis
+    - Teacher: In-Progress| Creator: Luis
     - Job Seeker: Finished | Creator: Luis
-    - Homemaker: In-Progress | Creator: Ryan
+    - Homemaker: Finished | Creator: Ryan
